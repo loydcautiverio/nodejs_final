@@ -1,0 +1,7 @@
+requestlog_timestamp: 22/01/2021 4:06:34 pm; endpoint: /; req.params: {}; req.query: {}; req.body: {}
+requestlog_timestamp: 22/01/2021 8:24:11 pm; endpoint: /; req.params: {}; req.query: {}; req.body: {}
+requestlog_timestamp: 22/01/2021 8:24:23 pm; endpoint: /event/60086a1549439735e494308b; req.params: {"id":"60086a1549439735e494308b"}; req.query: {}; req.body: {}
+requestlog_timestamp: 22/01/2021 8:24:31 pm; endpoint: /export?eventId=60081ed4c95b6744846172e1; req.params: {}; req.query: {"eventId":"60081ed4c95b6744846172e1"}; req.body: {}
+requestlog_timestamp: 22/01/2021 8:24:36 pm; endpoint: /; req.params: {}; req.query: {}; req.body: {}
+requestlog_timestamp: 22/01/2021 8:24:39 pm; endpoint: /member/60081eb7c95b6744846172e0; req.params: {"id":"60081eb7c95b6744846172e0"}; req.query: {}; req.body: {}
+requestlog_timestamp: 22/01/2021 8:24:43 pm; endpoint: /search?name=LOYD%20CAUTIVERIO&status=Active; req.params: {}; req.query: {"name":"LOYD CAUTIVERIO","status":"Active"}; req.body: {}
